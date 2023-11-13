@@ -1,8 +1,8 @@
-# happy Anniversary
+# Haooy Anniversary
  Happy Anniversary pendamping hidupku! Semoga menjadi pribadi yang semakin baik, sukses, dan tentunya selalu sayang dan cinta aku juga. I love you.
 
 
-# local : 
+# Local : 
 1. xampp on
 2. clone/download taroh di xampp/htdocs/
 3. open url http://localhost/fourth-anniv
