@@ -8,7 +8,7 @@
 3. open url http://localhost/fourth-anniv
 
 # Demo Site
- <a href="https://alfinsr.github.io/fourth-anniv/">alfinsr.github.io/fourth-anniv//</a>
+ <a href="https://alfinsr.github.io/fourth-anniv/">alfinsr.github.io/fourth-anniv/</a>
 
 # Let's connect with me!
 <p>
