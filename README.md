@@ -1,6 +1,12 @@
 # happy Anniversary
  Happy Anniversary pendamping hidupku! Semoga menjadi pribadi yang semakin baik, sukses, dan tentunya selalu sayang dan cinta aku juga. I love you.
 
+
+# local : 
+1. xampp on
+2. clone/download taroh di xampp/htdocs/
+3. open url http://localhost/fourth-anniv
+
 # Demo Site
  <a href="https://alfinsr.github.io/fourth-anniv/">alfinsr.github.io/fourth-anniv//</a>
 
